@@ -1,5 +1,5 @@
 function countdown() {
-    const targetDate = new Date('2023-12-31T23:59:59').getTime(); // Change this date to your target date/time
+    const targetDate = new Date('2025-12-31T23:59:59').getTime(); // Change this date to your target date/time
     const now = new Date().getTime();
     const timeDifference = targetDate - now;
   
